@@ -2,7 +2,6 @@
 <h3 align="center">Enthusiastic Learner | Aspiring Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">I'm a second-year Computer Science undergraduate at Informatics Institute of Technology, passionate about becoming a full-stack developer and exploring the realms of technology.</p>
-
 <br>
 
 <hr> <!-- Added line to separate sections -->
@@ -29,6 +28,5 @@
   <h3>📊 Stats</h3>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=gayaththri&show_icons=true&theme=gruvbox" alt="Gayaththri's GitHub stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayaththri" alt="gayaththri">
   </div>
 </div>
