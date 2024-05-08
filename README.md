@@ -1,8 +1,9 @@
-### Hi there, I'm Gayaththri Tharmasoruban! 
+<h1 align="center">Hi 👋, I'm Gayaththri Tharmasoruban</h1>
+<h3 align="center">Enthusiastic Learner | Aspiring Full-Stack Developer | Tech Enthusiast</h3>
 
-I'm a second-year Computer Science undergraduate at Informatics Institute of Technology, passionate about becoming a full-stack developer and exploring the realms of technology. 
 
-Welcome to my corner of the digital universe! 
+<p align="center">I'm a second-year Computer Science undergraduate at Informatics Institute of Technology, passionate about becoming a full-stack developer and exploring the realms of technology. </p>
+ 
 
 ### 🧰 Languages and Tools
 
@@ -21,8 +22,8 @@ Welcome to my corner of the digital universe!
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayaththri&show_icons=true&theme=gruvbox)
+![Gayaththri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayaththri&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayaththri&" alt="gayaththri" /></p>
 
 #
