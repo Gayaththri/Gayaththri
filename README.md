@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayaththri Tharmasoruban</h1>
 <h3 align="center">Enthusiastic Learner | Aspiring Full-Stack Developer | Tech Enthusiast</h3>
 
-<p align="center">I'm a second-year Computer Science undergraduate at Informatics Institute of Technology, passionate about becoming a full-stack developer and exploring the realms of technology.</p>
+<p align="center">I'm a third-year Computer Science undergraduate at Informatics Institute of Technology, passionate about becoming a full-stack developer and exploring the realms of technology.</p>
 <br>
 
 <hr> <!-- Added line to separate sections -->
